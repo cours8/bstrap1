@@ -4,6 +4,10 @@ footer {
     margin-top: 0px;
 }
 
+a:link {
+    color:blue;
+}
+
 .btn-reserva {
     width: 100%
 }
