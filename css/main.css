@@ -1,6 +1,11 @@
-.jumbotron {
+footer {
+    padding: 10px 10px 0 10px;
     background-color: yellowgreen;
-    color: black;
+    margin-top: 0px;
+}
+
+.btn-reserva {
+    width: 100%
 }
 
 .card-hotel {
@@ -8,8 +13,7 @@
     padding: 2px 5px 2px 5px;
 }
 
-footer {
-    padding: 10px 10px 0 10px;
+.jumbotron {
     background-color: yellowgreen;
-    margin-top: 0px;
+    color: black;
 }
