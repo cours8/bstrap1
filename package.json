@@ -1,0 +1,11 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Para curso Bootstrap de Austral (bastante malo el curso)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ESL",
+  "license": "ISC"
+}
